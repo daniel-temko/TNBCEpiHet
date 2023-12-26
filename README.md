@@ -11,7 +11,7 @@ Triple-negative breast cancer (TNBC) is a heterogeneous disease with limited tre
 * `/R_Data/`: Directory for preprocessed .RData files
 
 ## Data
-Raw and processed NGS and methylation array data are available from GEO (accession: GSE202776). Additional metadata and processed data files required to run the code are available to download from Figshare.
+Raw and processed NGS and methylation array data are available from GEO (accessions: GSE202776 and GSE163836). Additional metadata and processed data files required to run the code are available to download from Figshare.
 
 ## Contact
 For any questions, please feel free to reach out to me at dtemko@jimmy.harvard.edu.
